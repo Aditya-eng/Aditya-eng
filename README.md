@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-eng.
-- 👀 I’m interested in Python ,Django ,Javascript, C++ and C# ,also Unity game development .
-- 🌱 I’m currently learning CS50 and DJANGO in depth alongside js and python.
-- 💞️ I’m looking to collaborate on mainly Django, C and python.
+- 👀 I’m interested in Python ,Django ,Javascript, C++ and C.
+- 🌱 I’m currently learning Nand2Tetris and DSA.
+- 💞️ I’m looking to collaborate on mainly C++, C , python and HDL.
 - 📫 How to reach me here's my email address - gargadi2405@gmail.com and I'll be frequently checking my github ID.
 
 <!---
